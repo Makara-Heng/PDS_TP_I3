@@ -1,0 +1,1 @@
+# Problem 8. Flexible Functions: *args, **kwargs and lambda
